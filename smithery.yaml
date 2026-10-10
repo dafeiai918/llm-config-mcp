@@ -1,0 +1,7 @@
+name: llm-config-mcp
+description: AI 客户端配置生成 MCP：一次生成 18 种客户端的接入配置
+categories:
+  - tools
+  - productivity
+license: MIT
+repository: https://github.com/dafeiai918/llm-config-mcp
